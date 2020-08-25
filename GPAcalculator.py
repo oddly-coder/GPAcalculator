@@ -1,4 +1,4 @@
-#  GPA calculator
+#  GPA calculator to calculate your GPA with ease
 total_course_unit=0
 points=[]
 print("please type 'done' when you've inputted all courses\n")
